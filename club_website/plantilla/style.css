@@ -1,0 +1,16 @@
+.jugadores {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.jugadores img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+}
+
+section {
+    margin-bottom: 20px;
+}
